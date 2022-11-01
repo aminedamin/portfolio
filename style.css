@@ -1,0 +1,48 @@
+nav ul li{
+    display: inline;
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  nav ul li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+
+*
+{
+    background-color:beige;
+    font-family:roboto;
+}
+section h1 
+{
+    color:salmon;
+    text-decoration: underline;
+}
+
+.par {
+    border: 2px solid brown;
+}
+
+footer{
+    color: blue;
+    text-align: center;
+    
+}
+footer:hover{
+    color:red;
+}
